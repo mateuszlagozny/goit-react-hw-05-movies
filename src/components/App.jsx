@@ -4,7 +4,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { Loader } from './Pages/Loader';
 const BASE_URL = 'https://api.themoviedb.org/3/';
-const API_KEY = 'a8df323e9ca157a6f58df54190ee006c';
+const API_KEY = '722fc945adf4716d917825de22f5537c';
 
 const loader = componentName => {
   return lazy(() =>
